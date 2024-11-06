@@ -11,6 +11,5 @@ python code/inference_llm.py
 
 - data
 
-you can download dataset from baidu netdisk:
-url：https://pan.baidu.com/s/1WD8ynKqt98vgK3MaJd3ycQ 
-authentication code：zc2s
+we have shown the data sample in our repository. You can download the complete dataset from the google drive:
+https://drive.google.com/file/d/1Lfqf9L7pHCV5F1itN-M0Dz4UFW26ObXa/view?usp=drive_link
