@@ -1,0 +1,1 @@
+trec_eval-9.0.7/trec_eval /home/u12321044/share/liang_52/UniLR/rebuttal/Qwen/test_trec.txt /home/u12321044/share/liang_52/UniLR/rebuttal/Qwen/result.txt -m all_trec

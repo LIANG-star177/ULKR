@@ -1,0 +1,1 @@
+trec_eval-9.0.7/trec_eval /home/u12321044/share/liang_52/self-correct-retriever/rebuttal/lecard_data/test_trec.txt /home/u12321044/share/liang_52/self-correct-retriever/rebuttal/sailer/result/output_trec_100.txt -m all_trec
